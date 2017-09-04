@@ -1,15 +1,4 @@
-Mono path[0] = 'C:/Users/MoLeigh/Documents/GitHub/csharp_gamedev/Super Zombie Demo/SkillsDemo_csharp/Builds/Game2_Data/Managed'
-Mono path[1] = 'C:/Users/MoLeigh/Documents/GitHub/csharp_gamedev/Super Zombie Demo/SkillsDemo_csharp/Builds/Game2_Data/Mono'
-Mono config path = 'C:/Users/MoLeigh/Documents/GitHub/csharp_gamedev/Super Zombie Demo/SkillsDemo_csharp/Builds/Game2_Data/Mono/etc'
-PlayerConnection initialized from C:/Users/MoLeigh/Documents/GitHub/csharp_gamedev/Super Zombie Demo/SkillsDemo_csharp/Builds/Game2_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55119
-Multi-casting "[IP] 192.168.0.2 [Port] 55119 [Flags] 3 [Guid] 2494758975 [EditorId] 1774363692 [Version] 1048832 [Id] WindowsPlayer(MoLeigh-HP) [Debug] 1" to [225.0.0.222:54997]...
-Waiting for connection from host on [0.0.0.0:55119]...
-PlayerConnection accepted from [192.168.0.2] handle:0x2e4
-Started listening to [0.0.0.0:55119]
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56975
-PlayerConnection already initialized - listening to [0.0.0.0:55119]
-Player data archive not found at `C:/Users/MoLeigh/Documents/GitHub/csharp_gamedev/Super Zombie Demo/SkillsDemo_csharp/Builds/Game2_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+Initialize engine version: 5.6.2f1 (a2913c821e27)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -18,19 +7,23 @@ Direct3D:
     VRAM:     1126 MB
     Driver:   21.20.16.4542
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.305 seconds
-Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\Builds\Game2_Data\Managed\System.dll (this message is harmless)
-desktop: 1366x768 60Hz; virtual: 2732x768 at 0,0
+Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MoLeigh\Documents\GitHub\csharp_gamedev\Super Zombie Demo\SkillsDemo_csharp\skillsdemocsharp\Builds\Game2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
-Waiting for finish
+<RI> Initialized touch support.
+UnloadTime: 3.545598 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3508 -> priority: 1 
+  Thread -> id: 1638 -> priority: 1 
